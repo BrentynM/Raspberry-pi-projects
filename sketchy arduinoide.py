@@ -3,7 +3,7 @@ from tkinter import scrolledtext
 import subprocess
 import random
 import os
-import serial # You may need to install this: pip install pyserial
+import serial 
 import time
 
 class MatrixProgrammer328P:
